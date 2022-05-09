@@ -1,0 +1,31 @@
+# My Name 
+# Demonstrates the use of quotes in strings
+
+print("Program 'Kevin Defendre' 1.0")
+
+print("Same", "message", "as before")
+
+print("Just",
+      "a bit",
+      "bigger")
+
+print("Here", end=" ")
+print("it is...")
+
+print(
+        """     
+        ___    / /
+         |  | /  / 
+         |  | / 
+         |  | /
+         |  |/ 
+         |  |/
+         |  |
+         |  |  
+         |  |
+         |  |
+         ____
+        """
+     )
+
+input("\n\nPress the enter key to exit.")
